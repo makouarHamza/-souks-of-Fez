@@ -1,0 +1,6 @@
+{
+  "name": "SoukFes Artisan & Store Management",
+  "description": "Real-time store, inventory, and sales analytics platform for local artisans and traditional souks in the historic Medina of Fez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
